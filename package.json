@@ -1,0 +1,16 @@
+{
+  "name": "bootgate",
+  "version": "1.0.0",
+  "description": "change gateway when PC bootup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Duncna.WEN",
+  "license": "ISC",
+  "dependencies": {
+    "default-gateway": "^4.2.0",
+    "systeminformation": "^4.9.1"
+  }
+}
