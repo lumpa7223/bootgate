@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "default-gateway": "^4.2.0",
-    "systeminformation": "^4.9.1"
+    "systeminformation": "^4.27.11"
   }
 }
